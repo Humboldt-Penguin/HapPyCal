@@ -1,0 +1,1 @@
+description of each folder/script (copy mars magnetics thing)
