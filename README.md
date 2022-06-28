@@ -1,1 +1,1 @@
-project description
+![happy calorimeter](/docs/happy_calorimeter.png)
