@@ -1,0 +1,223 @@
+Now processing run 12354
+
+Data file read in 5.56 seconds.
+There are 632746 events
+Data file formatted to array in 6.68 seconds.
+
+Esum1 uncut took 22.13 seconds.
+Esum2 uncut took 68.97 seconds.
+
+Percent of double hits in this dataset = 40.17%
+Removing double hits took 12.12 seconds.
+
+Esum1 cut took 16.54 seconds.
+Esum2 cut took 45.91 seconds.
+
+Made plots in 2.78 seconds.
+
+
+This run took 180.74 seconds.
+
+------------------------------------------------------
+
+Now processing run 12355
+
+Data file read in 6.81 seconds.
+There are 675591 events
+Data file formatted to array in 8.84 seconds.
+
+Esum1 uncut took 27.60 seconds.
+Esum2 uncut took 74.36 seconds.
+
+Percent of double hits in this dataset = 28.65%
+Removing double hits took 12.70 seconds.
+
+Esum1 cut took 21.09 seconds.
+Esum2 cut took 58.51 seconds.
+
+Made plots in 2.35 seconds.
+
+
+This run took 212.29 seconds.
+
+------------------------------------------------------
+
+Now processing run 12356
+
+Data file read in 5.98 seconds.
+There are 662635 events
+Data file formatted to array in 7.41 seconds.
+
+Esum1 uncut took 24.73 seconds.
+Esum2 uncut took 80.61 seconds.
+
+Percent of double hits in this dataset = 18.16%
+Removing double hits took 12.48 seconds.
+
+Esum1 cut took 23.73 seconds.
+Esum2 cut took 59.64 seconds.
+
+Made plots in 2.87 seconds.
+
+
+This run took 217.48 seconds.
+
+------------------------------------------------------
+
+Now processing run 12357
+
+Data file read in 5.53 seconds.
+There are 548880 events
+Data file formatted to array in 7.09 seconds.
+
+Esum1 uncut took 24.45 seconds.
+Esum2 uncut took 67.66 seconds.
+
+Percent of double hits in this dataset = 19.40%
+Removing double hits took 10.35 seconds.
+
+Esum1 cut took 19.12 seconds.
+Esum2 cut took 48.45 seconds.
+
+Made plots in 2.68 seconds.
+
+
+This run took 185.36 seconds.
+
+------------------------------------------------------
+
+Now processing run 12358
+
+Data file read in 4.63 seconds.
+There are 446302 events
+Data file formatted to array in 5.76 seconds.
+
+Esum1 uncut took 19.87 seconds.
+Esum2 uncut took 55.11 seconds.
+
+Percent of double hits in this dataset = 22.45%
+Removing double hits took 8.41 seconds.
+
+Esum1 cut took 15.49 seconds.
+Esum2 cut took 42.85 seconds.
+
+Made plots in 2.48 seconds.
+
+
+This run took 154.61 seconds.
+
+------------------------------------------------------
+
+Now processing run 12359
+
+Data file read in 3.86 seconds.
+There are 417476 events
+Data file formatted to array in 4.68 seconds.
+
+Esum1 uncut took 16.19 seconds.
+Esum2 uncut took 47.73 seconds.
+
+Percent of double hits in this dataset = 24.84%
+Removing double hits took 7.85 seconds.
+
+Esum1 cut took 14.40 seconds.
+Esum2 cut took 38.61 seconds.
+
+Made plots in 2.43 seconds.
+
+
+This run took 135.78 seconds.
+
+------------------------------------------------------
+
+Now processing run 12360
+
+Data file read in 5.74 seconds.
+There are 523210 events
+Data file formatted to array in 6.92 seconds.
+
+Esum1 uncut took 23.51 seconds.
+Esum2 uncut took 58.04 seconds.
+
+Percent of double hits in this dataset = 27.71%
+Removing double hits took 8.56 seconds.
+
+Esum1 cut took 17.28 seconds.
+Esum2 cut took 46.71 seconds.
+
+Made plots in 2.73 seconds.
+
+
+This run took 169.51 seconds.
+
+------------------------------------------------------
+
+Now processing run 12361
+
+Data file read in 6.55 seconds.
+There are 584744 events
+Data file formatted to array in 7.63 seconds.
+
+Esum1 uncut took 26.69 seconds.
+Esum2 uncut took 71.74 seconds.
+
+Percent of double hits in this dataset = 24.21%
+Removing double hits took 10.92 seconds.
+
+Esum1 cut took 17.54 seconds.
+Esum2 cut took 50.89 seconds.
+
+Made plots in 2.89 seconds.
+
+
+This run took 194.87 seconds.
+
+------------------------------------------------------
+
+Now processing run 12362
+
+Data file read in 7.35 seconds.
+There are 645039 events
+Data file formatted to array in 8.43 seconds.
+
+Esum1 uncut took 28.80 seconds.
+Esum2 uncut took 80.54 seconds.
+
+Percent of double hits in this dataset = 16.44%
+Removing double hits took 12.20 seconds.
+
+Esum1 cut took 21.10 seconds.
+Esum2 cut took 62.41 seconds.
+
+Made plots in 2.48 seconds.
+
+
+This run took 223.34 seconds.
+
+------------------------------------------------------
+
+Now processing run 12363
+
+Data file read in 5.93 seconds.
+There are 539441 events
+Data file formatted to array in 7.05 seconds.
+
+Esum1 uncut took 23.93 seconds.
+Esum2 uncut took 66.27 seconds.
+
+Percent of double hits in this dataset = 7.65%
+Removing double hits took 10.22 seconds.
+
+Esum1 cut took 22.45 seconds.
+Esum2 cut took 54.62 seconds.
+
+Made plots in 3.04 seconds.
+
+
+This run took 193.54 seconds.
+
+------------------------------------------------------
+
+
+
+All runns took 1867.51 seconds.
