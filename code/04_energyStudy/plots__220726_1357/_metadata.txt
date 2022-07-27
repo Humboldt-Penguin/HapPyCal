@@ -1,0 +1,5 @@
+first complete set of plots
+
+however electron PID cut was not applied, so we're also capturing muon data
+
+this is why for the momentum vs edep plot, we see it become very steep near the end.
