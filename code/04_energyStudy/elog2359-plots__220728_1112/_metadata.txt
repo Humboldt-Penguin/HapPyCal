@@ -1,0 +1,6 @@
+final set of plots for elog2359:
+
+- electron PID cut applied
+- overlaid histograms normalized to match heights
+- gaussian fits on individual plots
+- plotted momentum vs resolution and some other metrics, with correction to account for annoying outliers
